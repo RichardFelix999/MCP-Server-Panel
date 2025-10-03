@@ -16,28 +16,28 @@ Here I all gathered my MCP Server Repos in one place.
 
 - https://github.com/RichardFelix999/Google-MCP-Image-Search
 
-- https://github.com/RichardFelix999/Google-Service-MCP.git
+- https://github.com/RichardFelix999/Google-Service-MCP 
 
-- https://github.com/RichardFelix999/JSON-MCP-Boilerplate.git
+- https://github.com/RichardFelix999/JSON-MCP-Boilerplate 
 
-- https://github.com/RichardFelix999/Knowledge-EmbeddingAPI-MCP.git
+- https://github.com/RichardFelix999/Knowledge-EmbeddingAPI-MCP 
 
 - https://github.com/RichardFelix999/html-maker-mcp
 
-- https://github.com/RichardFelix999/reasoning-boilerplate-mcp.git
+- https://github.com/RichardFelix999/reasoning-boilerplate-mcp 
 
-- https://github.com/RichardFelix999/reddit-mcp.git
+- https://github.com/RichardFelix999/reddit-mcp 
 
-- https://github.com/RichardFelix999/media-boilerplate-mcp.git
+- https://github.com/RichardFelix999/media-boilerplate-mcp 
 
-- https://github.com/RichardFelix999/mongo-boilerplate-mcp.git
+- https://github.com/RichardFelix999/mongo-boilerplate-mcp 
 
-- https://github.com/RichardFelix999/speech-TTS-mcp.git
+- https://github.com/RichardFelix999/speech-TTS-mcp 
 
-- https://github.com/RichardFelix999/research-mcp-server.git
+- https://github.com/RichardFelix999/research-mcp-server 
 
-- https://github.com/RichardFelix999/sql-supabase-mcp.git
+- https://github.com/RichardFelix999/sql-supabase-mcp 
 
-- https://github.com/RichardFelix999/video-generation-mcp.git
+- https://github.com/RichardFelix999/video-generation-mcp 
 
-- https://github.com/RichardFelix999/typescript-static-analysis-mcp.git
+- https://github.com/RichardFelix999/typescript-static-analysis-mcp 
